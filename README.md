@@ -2,7 +2,7 @@
 
 Website portofolio pribadi yang dibangun dengan desain minimalis, clean, dan profesional. Menggunakan **HTML**, **Tailwind CSS (CDN)**, dan **Vanilla JavaScript**.
 
-## 🚀 Fitur Utama
+## Fitur Utama
 
 - **Responsive Design**: Optimal untuk perangkat mobile, tablet, dan desktop.
 - **Dark Mode**: Toggle tema gelap dan terang secara otomatis/manual.
@@ -11,7 +11,7 @@ Website portofolio pribadi yang dibangun dengan desain minimalis, clean, dan pro
 - **WhatsApp Integration**: Form kontak dan tombol CTA yang langsung terhubung ke WhatsApp.
 - **Project Showcase**: Card project interaktif dengan efek hover yang mengarah langsung ke link project.
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 - **HTML5**: Struktur semantik website.
 - **Tailwind CSS**: Framework CSS utility-first untuk styling cepat dan modern.
@@ -19,7 +19,7 @@ Website portofolio pribadi yang dibangun dengan desain minimalis, clean, dan pro
 - **FontAwesome**: Ikon-ikon pendukung yang elegan.
 - **Google Fonts (Inter)**: Tipografi yang bersih dan mudah dibaca.
 
-## 📂 Struktur File
+## Struktur File
 
 ```text
 ├── index.html   # Struktur utama website
